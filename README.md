@@ -9,6 +9,3 @@ update @ 2022/04/21
 
 ![image](https://github.com/released/M031BSP_FunctionPointer/blob/main/LOG.jpg)
 
-
-
-
